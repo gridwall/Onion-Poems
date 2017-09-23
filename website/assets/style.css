@@ -1,0 +1,6 @@
+a{}
+a:hover{}
+
+img.tor{z-index:-1;position: fixed; bottom:20px;right:20px; width: 140px;filter: blur(2px);mix-blend-mode: difference;}
+
+h1, .h1{}
